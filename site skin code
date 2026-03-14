@@ -695,3 +695,11 @@ a.dropdown-toggle {
 #header .actions a:active {
   color: #fffbe9 !important;
 }
+
+p.kudos {
+  background: url("https://64.media.tumblr.com/2f52720be41cf4fa510acc9ee297f6d8/6419e7e609d7f703-7c/s640x960/4046ffd3ebb7c74d01db129e3e9a93a215b9332e.png");
+  background-size: 100px 100px;
+  background-repeat: no-repeat;
+  padding: 0em 0em 0em 120px;
+  word-wrap: break-word;
+}
